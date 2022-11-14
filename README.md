@@ -11,7 +11,7 @@
 
 
 ## 🌐My Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lils0uxz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lils0uxz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lil.s0uxz/)
 
 👆Above is link to my Instagram Page (@coding_dev_) where I upload daily posts on Web Development.
