@@ -5,6 +5,8 @@
 ### ✨ About Me ✨:
 👨‍🎓 I am a LHU Student
 
+💼 Founder StarStudio
+
 ❤️ I love Coding & Design
 
 🎵 I love listening to music while working 👨🏻‍💻
@@ -22,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilakjain123&show_icons=true&locale=en" alt="tilakjain123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&" alt="tilakjain123" /></p>
-
