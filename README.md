@@ -10,13 +10,13 @@
 🎵 I love listening to music while working 👨🏻‍💻
 
 
-## 🌐My Socials
+## 🌐 My Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lils0uxz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lil.s0uxz/)
 
 👆Above is link to my Socials.
 
-<h3 align="left">⚙️ Other Tools:</h3>
+## ⚙️ Other Tools:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilakjain123&show_icons=true&locale=en" alt="tilakjain123" /></p>
 
