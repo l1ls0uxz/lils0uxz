@@ -1,6 +1,6 @@
 ## Hello, 🖐🏻
 
-<img src="./imgs/600x600_StarDev.png" alt="StarDev" width="60%">
+<img src="./imgs/600x600_StarDev.png" alt="StarDev" width="40%">
 
 ### ✨ About Me ✨:
 👨‍🎓 I am a LHU Student
