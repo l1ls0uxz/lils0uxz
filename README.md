@@ -29,4 +29,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lils0uxz&layout=compact)](https://github.com/lils0uxz)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]()
