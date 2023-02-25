@@ -23,6 +23,6 @@
 
 ## ⚙️ Other Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilakjain123&show_icons=true&locale=en" alt="tilakjain123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lils0uxz&show_icons=true&locale=en" alt="lils0uxz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&" alt="tilakjain123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lils0uxz&" alt="lils0uxz" /></p>
