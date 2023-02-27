@@ -11,7 +11,7 @@
 
 🎵 I love listening to music while working 👨🏻‍💻
 
-## 🔥 NEW GOAL 2023: Road to Full-Stack Developer 🔥
+🔥 **NEW GOAL 2023: Road to Full-Stack Developer** 🔥
 
 
 ## 🌐 My Socials
