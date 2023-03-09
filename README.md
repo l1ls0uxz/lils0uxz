@@ -2,7 +2,7 @@
 
 <img src="./imgs/600x600_StarDev.png" alt="StarDev" width="20%">
 
-### ✨ About Me ✨:
+### ✨ About Me ✨
 👨‍🎓 I am a LHU Student
 
 💼 Founder StarStudio
