@@ -24,7 +24,7 @@
 
 ## ⚙️ Other Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lils0uxz&show_icons=true&locale=en" alt="lils0uxz" /></p>
+![Lils0uxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lils0uxz&show_icons=true&theme=transparent)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lils0uxz&" alt="lils0uxz" /></p>
 
