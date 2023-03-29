@@ -32,4 +32,4 @@
 
 [![lils0uxz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lils0uxz)](https://github.com/lils0uxz)
 
-[![Lil s0uxz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lils0uxz&theme=react-dark)]( )
+[![Lil s0uxz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lils0uxz&theme=react-dark)](https://github.com/lils0uxz)
