@@ -31,3 +31,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lils0uxz&layout=compact)](https://github.com/lils0uxz)
 
 [![lils0uxz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lils0uxz)](https://github.com/lils0uxz)
+
+[![Lil s0uxz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lils0uxz&theme=cotton-candy)]
