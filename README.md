@@ -5,7 +5,7 @@
 ### ✨ About Me ✨
 👨‍🎓 I am a LHU Student
 
-💼 Founder StarStudio
+💼 Founder StarStudio est.2021
 
 ❤️ I love Coding & Design
 
