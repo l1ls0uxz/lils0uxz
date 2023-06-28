@@ -29,7 +29,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lils0uxz&" alt="lils0uxz" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lils0uxz&layout=compact)](https://github.com/lils0uxz)
-
-[![lils0uxz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lils0uxz)](https://github.com/lils0uxz)
-
-[![Lil s0uxz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lils0uxz&theme=react-dark)](https://github.com/lils0uxz)
